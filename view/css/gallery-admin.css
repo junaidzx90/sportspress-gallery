@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .fancybox-container {
+    z-index: 9999299992 !important;
+}
+.sp_gallery{
+    margin-bottom: 0 !important;
+}
